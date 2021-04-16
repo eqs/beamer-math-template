@@ -10,6 +10,10 @@
 
 ## Usage
 
+### Overleaf
+
+https://www.overleaf.com/latex/templates/beamer-math-template/jrpjfcrxghcp
+
 ### Local
 
 1. Clone this repo
